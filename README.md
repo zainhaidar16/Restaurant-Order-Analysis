@@ -25,6 +25,3 @@ The Restaurant Analytics System is a data analytics project designed to provide 
 ## Usage
 1. Open Jupyter Notebook: `jupyter notebook`
 2. Open the provided notebooks in the `notebooks` directory for data analysis and visualization.
-
-## License
-This project is licensed under the [MIT License](LICENSE).
